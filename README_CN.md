@@ -34,7 +34,7 @@ Minio文件启动器需要以下依赖项：
    <dependency>
        <groupId>io.github.dingxinliang88</groupId>
        <artifactId>minio-file-starter</artifactId>
-       <version>0.0.1</version>
+       <version>1.0.0</version>
    </dependency>
    ```
 
@@ -74,7 +74,7 @@ Minio文件启动器需要以下依赖项：
 
 ## 许可证
 
-Minio文件启动器库在MIT许可下发布。有关详细信息，请参阅 [LICENSE](https://chatbot.theb.ai/link-to-license-file) 文件。
+Minio文件启动器库在MIT许可下发布。有关详细信息，请参阅 [LICENSE](https://mit-license.org/) 文件。
 
 ## 贡献
 

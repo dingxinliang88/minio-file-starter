@@ -34,10 +34,10 @@ Make sure to include these dependencies in your project's build configuration.
 
 	```xml
 	<dependency>
-       <groupId>io.github.dingxinliang88</groupId>
-       <artifactId>minio-file-starter</artifactId>
-       <version>0.0.1</version>
-   </dependency>
+        <groupId>io.github.dingxinliang88</groupId>
+        <artifactId>minio-file-starter</artifactId>
+        <version>1.0.0</version>
+    </dependency>
 	```
 
 2. Modify the configuration.
@@ -76,7 +76,7 @@ Make sure to include these dependencies in your project's build configuration.
 
 ## License
 
-The Minio File Starter library is released under the MIT License. See the [LICENSE](https://chatbot.theb.ai/link-to-license-file) file for more details.
+The Minio File Starter library is released under the MIT License. See the [LICENSE](https://mit-license.org/) file for more details.
 
 ## Contribution
 
